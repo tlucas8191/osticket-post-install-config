@@ -98,17 +98,19 @@ In this step, we configured made-up agents(workers) named Jane Doe and John Doe.
 
 </p>
 <p>
-In this step, we configured made-up end-users named Karen and Ken.  Karen and Ken would be the people who worked at the company that had a technical issue that needed to be resolved.
+In this step, we configured made-up end-users(customers) named Karen and Ken.  Karen and Ken would be the people who worked at the company, that put in a ticket, that had a technical issue that needed to be resolved.
 </p>
 <br />
 
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-21 at 6 32 20 PM](https://github.com/user-attachments/assets/677709f6-6860-46a5-97ce-790ef0ca5a0f)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, all of the SLAs (service level agreements) were created, meaning there were timeframes attached to how long it should take for someone to resolve each helpdesk ticket, depending on the severity of the ticket issue.
 </p>
 <br />
 
