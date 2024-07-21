@@ -118,9 +118,11 @@ In this step, all of the SLAs (service level agreements) were created, meaning t
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screen Shot 2024-07-21 at 6 38 46 PM](https://github.com/user-attachments/assets/c55e8145-6e56-458f-9098-d43929343785)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this last step, all of the help topics were configured: (Business Critical Outage, Personal Computer Issues, Equipment Request, Password Reset, etc.)  The end-user can choose from any of these topics when the ticket is first created.
 </p>
 <br />
