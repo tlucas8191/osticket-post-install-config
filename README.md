@@ -72,10 +72,35 @@ In this step, the admin teams for helpdesk were created.
 
 </p>
 <p>
-In this step, we configured the settings so that anyone with access to the osTicker url can put a ticket into helpdesk.
+In this step, we configured the settings so that anyone/any end-user with access to the osTicket url can put a ticket into helpdesk.
 </p>
 <br />
 
+
+
+
+<p>
+
+![Screen Shot 2024-07-21 at 6 07 28 PM](https://github.com/user-attachments/assets/0ed84233-69d5-4924-b3ea-e57a6b802133)
+
+</p>
+<p>
+In this step, we configured made-up agents(workers) named Jane Doe and John Doe.  The agents were also given passwords and email addresses.
+</p>
+<br />
+
+
+
+
+<p>
+
+![Screen Shot 2024-07-21 at 6 14 37 PM](https://github.com/user-attachments/assets/c481fed8-69cb-4cc3-9a92-15c18257ff65)
+
+</p>
+<p>
+In this step, we configured made-up end-users named Karen and Ken.  Karen and Ken would be the people who worked at the company that had a technical issue that needed to be resolved.
+</p>
+<br />
 
 
 
@@ -87,21 +112,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
